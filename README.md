@@ -1,2 +1,2 @@
-# codeitup.today
+# CodeItUp!
 CodeItUp!
